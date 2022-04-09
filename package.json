@@ -68,7 +68,7 @@
     "@crazyfactory/tslint-rules": "^1.9.0",
     "@storybook/addon-docs": "^5.3.18",
     "@storybook/react": "^5.3.18",
-    "@types/enzyme": "^3.10.5",
+    "@types/enzyme": "^3.10.11",
     "@types/express": "^4.17.6",
     "@types/jest": "^25.2.1",
     "@types/node": "^13.13.4",
