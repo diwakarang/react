@@ -66,7 +66,7 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@crazyfactory/tslint-rules": "^1.9.0",
-    "@storybook/addon-docs": "^5.3.18",
+    "@storybook/addon-docs": "^6.5.9",
     "@storybook/react": "^5.3.18",
     "@types/enzyme": "^3.10.5",
     "@types/express": "^4.17.6",
